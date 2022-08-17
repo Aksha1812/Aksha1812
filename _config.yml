@@ -1,16 +1,22 @@
 # Site settings
-title: A blog about lorem ipsum dolor sit amet
-description: A blog about lorem ipsum dolor sit amet
+title: A professional portfolio website of Aksha Thakkar
+description: A professional portfolio website of Aksha Thakkar
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
-username: Anon Developer
-user_description: Bicycle rights irony actually neutra typewriter lyft. Man bun taxidermy put a bird on it, umami yr ramps pop-up ugh bushwick chia lo-fi. Occupy bitters pour-over snackwave you probably haven't heard of them small batch. Cornhole mustache man bun letterpress echo park VHS.
-user_title: Software Developer
-email: anon@anon.com
+username: Aksha Thakkar
+user_description: I am pursuing my graduate degree in Computer Science at Ira A. Fulton School of Engineering, Arizona State University. I have been enthusiastic about learning and working on Software Development, Data Science and Machine Learning.
+  
+  As an Engineering Summer Analyst Intern at Goldman Sachs, I have delivered fullstack software solutions to manage Liquidity Assets. Moreover, I learned how to work in a professional environment and accomplish tasks in the provided time frame.
+  
+  Currently I am a Research Aide and Teaching Assistant at the Thunderbird School of Management. I have also worked as a Data Science Intern at Jio Platforms Ltd AI Center of Excellence for six months where I focused on providing various solutions for predictive models for sports analytics. It required a comprehensive skill set of Data Science and Machine Learning concepts.
+  
+  Such numerous and versatile professional and academic experiences have engrossed in me the zeal to gain extensive knowledge and the ability to implement them to provide concrete solutions. My goal is to advance a career in Computer Science and make valuable contributions to the field.
+user_title: Software Developement, Machine Learning
+email: akshathakkar@gmail.com
+github_username:  Aksha1812
 twitter_username: lorem_ipsum
-github_username:  lorem_ipsum
 gplus_username:  lorem_ipsum
 
 # Google-analytics
